@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Bishkek is the capital of Kyrgyzstan
+Astana is the capital of Kazakhstan
